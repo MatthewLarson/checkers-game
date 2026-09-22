@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "rendererVersion": 1,
+  "entries": {
+    "@materials/mat-e8c36b77-0e19-40e1-81da-d074dc851169": {
+      "inputHash": "a633512c8d0dbabf",
+      "file": "thumbnails/@materials/mat-e8c36b77-0e19-40e1-81da-d074dc851169.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover-thumb.webp": {
+      "inputHash": "e74962f5e34bd84b",
+      "file": "thumbnails/media/cover-thumb.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover.webp": {
+      "inputHash": "0c7aa9ccb25b924c",
+      "file": "thumbnails/media/cover.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/screenshot-0.webp": {
+      "inputHash": "928e091c38be7616",
+      "file": "thumbnails/media/screenshot-0.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-1.webp": {
+      "inputHash": "ad0f5e4d7cdfe6d9",
+      "file": "thumbnails/media/screenshot-1.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-2.webp": {
+      "inputHash": "42b87df33b2d50a4",
+      "file": "thumbnails/media/screenshot-2.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "models/chess-set-1k-board.glb": {
+      "inputHash": "5c66d90171b455c1",
+      "file": "thumbnails/models/chess-set-1k-board.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/Onyx015.png": {
+      "inputHash": "6ab42c0b696db026",
+      "file": "thumbnails/originals/Onyx015.png.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/Onyx015_1K-JPG_Color.jpg": {
+      "inputHash": "15c19790e076d750",
+      "file": "thumbnails/originals/Onyx015_1K-JPG_Color.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/Onyx015_1K-JPG_Displacement.jpg": {
+      "inputHash": "ef76aeed3595d2d3",
+      "file": "thumbnails/originals/Onyx015_1K-JPG_Displacement.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/Onyx015_1K-JPG_NormalDX.jpg": {
+      "inputHash": "5a51844195085485",
+      "file": "thumbnails/originals/Onyx015_1K-JPG_NormalDX.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/Onyx015_1K-JPG_NormalGL.jpg": {
+      "inputHash": "907abe484d65e95e",
+      "file": "thumbnails/originals/Onyx015_1K-JPG_NormalGL.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/Onyx015_1K-JPG_Roughness.jpg": {
+      "inputHash": "130fbb9905252ac1",
+      "file": "thumbnails/originals/Onyx015_1K-JPG_Roughness.jpg.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/checker-black.glb": {
+      "inputHash": "8efbe9fdfdb84301",
+      "file": "thumbnails/originals/checker-black.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/chess-set-1k-board.glb": {
+      "inputHash": "158f7d2dfc0052c4",
+      "file": "thumbnails/originals/chess-set-1k-board.glb.webp",
+      "width": 256,
+      "height": 256
+    }
+  }
+}
