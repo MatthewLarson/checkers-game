@@ -1,14 +1,14 @@
 {
   "version": 1,
   "source": {
-    "presetId": "builtin:model/checker-black/checker-black",
+    "presetId": "builtin:model/checker-white/checker-white",
     "presetKind": "material",
     "type": "preset"
   },
-  "sourceHash": "71fddd9ab581a1d8d1b6e527d31519ebde4971efb701f44b30c4a10c33b3047a",
-  "materialId": "mat-013e229c-d7c5-448f-bb37-bfe737e6bf31",
-  "linkedAt": "2026-09-22T02:33:35.379Z",
-  "syncedAt": "2026-09-22T02:33:35.379Z",
+  "sourceHash": "1357758312f596ca5d7f7871d31a437fec0eb50ac3ef40c8f7de97a22ebba49c",
+  "materialId": "mat-95d9ef25-8492-4e3e-9aee-5c62f13894ed",
+  "linkedAt": "2026-09-22T03:08:14.428Z",
+  "syncedAt": "2026-09-22T03:08:14.428Z",
   "base": {
     "alphaTest": 0,
     "alphaToCoverage": false,
@@ -25,7 +25,7 @@
     "depthTest": true,
     "depthWrite": true,
     "diffuse": "#ffffff",
-    "diffuseMap": "textures/checker-black-basecolor-ffb37200.png",
+    "diffuseMap": "textures/checker-white-basecolor-3507a78f.png",
     "diffuseTint": true,
     "diffuseVertexColor": false,
     "emissive": "#000000",
