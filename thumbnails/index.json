@@ -32,6 +32,18 @@
       "width": 256,
       "height": 144
     },
+    "media/screenshot-3.webp": {
+      "inputHash": "3b3aaff3138a637e",
+      "file": "thumbnails/media/screenshot-3.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-4.webp": {
+      "inputHash": "47fb116a546b42ee",
+      "file": "thumbnails/media/screenshot-4.webp.webp",
+      "width": 256,
+      "height": 144
+    },
     "models/chess-set-1k-board.glb": {
       "inputHash": "5c66d90171b455c1",
       "file": "thumbnails/models/chess-set-1k-board.glb.webp",

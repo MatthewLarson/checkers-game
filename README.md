@@ -6,7 +6,13 @@
 
 ---
 
-The classic game of checkers
+**Play Checkers Online Free — Real 3D Board, No Downloads**
+
+Play checkers online free with friends or strangers in a fully interactive 3D tabletop — no app installs, no sign-up walls, just a link and a board. This checkers mod runs on DiceyTable's modern physics table, so every piece is a real, grabbable object you drag, stack, and capture with your mouse, touchscreen, or VR controller instead of clicking flat squares on a 2D grid. Jump into a checkers game online with up to two players connected peer-to-peer over WebRTC for fast, laggy-free moves, or spectate a match in progress. Whether you're looking for a free checkers game to kill five minutes or a full board game night with friends, this is browser-based checkers the way it should feel — tactile, fast, and free to play instantly in your browser.
+
+Built on DiceyTable's modern room system, hosting or joining a checkers match takes seconds: create a room, share the link, and your opponent drops straight into a synced, host-authoritative game board — no lobbies to configure, no accounts required to play a casual round. The table itself is a physics-driven surface, so pieces slide, king-flip, and settle naturally instead of snapping between grid cells, giving classic checkers a tangible, tabletop feel you won't find in typical checkers online free apps. Because it's peer-to-peer, your moves sync directly between players with minimal latency, and the same room supports voice-adjacent presence so a checkers night with friends feels like sitting across a real table.
+
+Search "checkers online free," "play checkers with friends," or "3D checkers game," and what you actually want is a board that plays like the real thing — this mod delivers that inside DiceyTable's browser-first tabletop simulator. No installs, no plugins, cross-platform on desktop and mobile browsers, and compatible with VR for an even more immersive checkers experience. It's the classic strategy game of kings and captures, rebuilt for the modern web: instant matches, physics-real pieces, and a shareable link that turns "let's play checkers" into an actual game in under thirty seconds.
 
 ---
 

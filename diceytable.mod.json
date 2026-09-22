@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "checkers",
   "name": "Checkers",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
@@ -14,6 +14,8 @@
     "media/screenshot-0.webp",
     "media/screenshot-1.webp",
     "media/screenshot-2.webp",
+    "media/screenshot-3.webp",
+    "media/screenshot-4.webp",
     "models/chess-set-1k-board.glb",
     "models/chess-set-1k-board.meta.json"
   ],
@@ -141,11 +143,37 @@
         "acceptedAt": "2026-09-22T03:36:23.643Z",
         "signedName": "Matt Larson"
       }
+    },
+    {
+      "id": "credit-831731b8-7f48-48fe-a9dc-11483f2b47da",
+      "paths": [
+        "media/screenshot-3.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-22T03:46:36.649Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T03:46:36.649Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-114fb293-c83d-4528-abb6-86b3bef326e1",
+      "paths": [
+        "media/screenshot-4.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-22T03:46:54.589Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T03:46:54.589Z",
+        "signedName": "Matt Larson"
+      }
     }
   ],
   "slug": "checkers",
   "summary": "The classic game of checkers",
-  "description": "The classic game of checkers",
+  "description": "**Play Checkers Online Free — Real 3D Board, No Downloads**\n\nPlay checkers online free with friends or strangers in a fully interactive 3D tabletop — no app installs, no sign-up walls, just a link and a board. This checkers mod runs on DiceyTable's modern physics table, so every piece is a real, grabbable object you drag, stack, and capture with your mouse, touchscreen, or VR controller instead of clicking flat squares on a 2D grid. Jump into a checkers game online with up to two players connected peer-to-peer over WebRTC for fast, laggy-free moves, or spectate a match in progress. Whether you're looking for a free checkers game to kill five minutes or a full board game night with friends, this is browser-based checkers the way it should feel — tactile, fast, and free to play instantly in your browser.\n\nBuilt on DiceyTable's modern room system, hosting or joining a checkers match takes seconds: create a room, share the link, and your opponent drops straight into a synced, host-authoritative game board — no lobbies to configure, no accounts required to play a casual round. The table itself is a physics-driven surface, so pieces slide, king-flip, and settle naturally instead of snapping between grid cells, giving classic checkers a tangible, tabletop feel you won't find in typical checkers online free apps. Because it's peer-to-peer, your moves sync directly between players with minimal latency, and the same room supports voice-adjacent presence so a checkers night with friends feels like sitting across a real table.\n\nSearch \"checkers online free,\" \"play checkers with friends,\" or \"3D checkers game,\" and what you actually want is a board that plays like the real thing — this mod delivers that inside DiceyTable's browser-first tabletop simulator. No installs, no plugins, cross-platform on desktop and mobile browsers, and compatible with VR for an even more immersive checkers experience. It's the classic strategy game of kings and captures, rebuilt for the modern web: instant matches, physics-real pieces, and a shareable link that turns \"let's play checkers\" into an actual game in under thirty seconds.",
   "category": "checkers-draughts",
   "coverImage": "media/cover.webp",
   "screenshots": [
@@ -175,6 +203,45 @@
         "w": 1,
         "h": 0.9994686503719449
       }
+    },
+    {
+      "path": "media/screenshot-3.webp",
+      "crop": {
+        "x": 0.042208199014685165,
+        "y": 0,
+        "w": 0.8678989416585595,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-4.webp",
+      "crop": {
+        "x": 0.04325746010446937,
+        "y": 0,
+        "w": 0.8694685736012401,
+        "h": 1
+      }
+    }
+  ],
+  "players": {
+    "min": 2,
+    "max": 2
+  },
+  "rules": [
+    {
+      "kind": "video",
+      "id": "video",
+      "title": "How to Play Checkers",
+      "video": {
+        "provider": "youtube",
+        "id": "ScKIdStgAfU"
+      }
+    },
+    {
+      "kind": "markdown",
+      "id": "rules",
+      "title": "Rules",
+      "path": "rules/rules.md"
     }
   ]
 }
