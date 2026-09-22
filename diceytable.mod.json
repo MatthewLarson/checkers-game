@@ -1,0 +1,179 @@
+{
+  "schemaVersion": "1.0",
+  "id": "checkers",
+  "name": "Checkers",
+  "version": "0.1.1",
+  "type": "game-pack",
+  "entry": {},
+  "assets": [
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp",
+    "media/screenshot-1.webp",
+    "media/screenshot-2.webp",
+    "models/chess-set-1k-board.glb",
+    "models/chess-set-1k-board.meta.json"
+  ],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "capabilities": {
+    "version": "1",
+    "allowed": [
+      "log"
+    ]
+  },
+  "license": "MIT",
+  "tags": [
+    "checkers",
+    "classic",
+    "two-player",
+    "strategy",
+    "family"
+  ],
+  "credits": [
+    {
+      "id": "link-015900d5",
+      "paths": [
+        "links/materials/mat-e8c36b77-0e19-40e1-81da-d074dc851169.link.json"
+      ],
+      "origin": "third-party",
+      "title": "KayKit — Board Game Bits 1.0 (EXTRA)",
+      "creator": "Kay Lousberg",
+      "creatorUrl": "https://www.kaylousberg.com",
+      "sourceUrl": "https://www.kaylousberg.com",
+      "licenseName": "CC0 1.0 (Public Domain)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "notes": "CC0: attribution is not required; credited as a courtesy, as the author asks.",
+      "recordedAt": "2026-09-22T02:25:17.025Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "material",
+        "presetId": "builtin:model/board-checkers-wood/boardgame"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-0fd2dd5c",
+      "paths": [
+        "links/materials/mat-d5258d05-c034-429e-be28-3817fe70223f.link.json"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-09-22T02:33:27.959Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "material",
+        "presetId": "builtin:model/checker-white/checker-white"
+      },
+      "locked": true
+    },
+    {
+      "id": "link-0da46c01",
+      "paths": [
+        "links/materials/mat-013e229c-d7c5-448f-bb37-bfe737e6bf31.link.json"
+      ],
+      "origin": "own-work",
+      "title": "DiceyTable procedural standard objects",
+      "creator": "DiceyTable",
+      "notes": "Geometry and textures generated in-repo. Checkers and go stones sample Poly Haven CC0 plates (oak_veneer_01, white_plaster_02, seaside_rock), which carry no obligation.",
+      "recordedAt": "2026-09-22T02:33:35.379Z",
+      "source": {
+        "type": "preset",
+        "presetKind": "material",
+        "presetId": "builtin:model/checker-black/checker-black"
+      },
+      "locked": true
+    },
+    {
+      "id": "credit-70f5382c-5ba3-4550-a046-e98612f6ee96",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "title": "Mod Images",
+      "recordedAt": "2026-09-22T02:41:14.067Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T02:41:14.067Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-970825fc-2c15-4576-8a8d-74b9cf108823",
+      "paths": [
+        "media/screenshot-0.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-22T02:41:25.270Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T02:41:25.270Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-a0a33bfb-e759-4e75-9e6a-3e9b254d7ed5",
+      "paths": [
+        "media/screenshot-1.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-22T02:41:35.046Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T02:41:35.046Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-5ae76b56-07a4-49e3-b808-57ab686bddca",
+      "paths": [
+        "media/screenshot-2.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-22T02:41:43.524Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-22T02:41:43.524Z",
+        "signedName": "Matt Larson"
+      }
+    }
+  ],
+  "slug": "checkers",
+  "summary": "The classic game of checkers",
+  "description": "The classic game of checkers",
+  "category": "checkers-draughts",
+  "coverImage": "media/cover.webp",
+  "screenshots": [
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.0002656748140275611,
+        "w": 1,
+        "h": 0.9994686503719449
+      }
+    },
+    {
+      "path": "media/screenshot-1.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.0002656748140275611,
+        "w": 1,
+        "h": 0.9994686503719449
+      }
+    },
+    {
+      "path": "media/screenshot-2.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.0002656748140275611,
+        "w": 1,
+        "h": 0.9994686503719449
+      }
+    }
+  ]
+}
