@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "checkers",
   "name": "Checkers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
