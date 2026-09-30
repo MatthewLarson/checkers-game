@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "checkers",
   "name": "Checkers",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "type": "game-pack",
   "entry": {
     "setup": "setup.json",
@@ -243,5 +243,6 @@
       "title": "Rules",
       "path": "rules/rules.md"
     }
-  ]
+  ],
+  "diceEnabled": false
 }
