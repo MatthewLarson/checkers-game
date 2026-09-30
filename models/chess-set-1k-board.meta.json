@@ -1,8 +1,28 @@
 {
+  "kind": "board",
+  "material": "stone",
   "scale": {
-    "x": 3,
-    "y": 3,
-    "z": 3
+    "x": 1,
+    "y": 1,
+    "z": 1
   },
-  "bodyType": "static"
+  "locked": true,
+  "lightmapStatic": true,
+  "bodyType": "static",
+  "friction": 0.55,
+  "restitution": 0.2,
+  "collider": {
+    "mode": "custom",
+    "entries": [
+      {
+        "id": "collider-1",
+        "shape": "box",
+        "size": {
+          "x": 0.5532379746437073,
+          "y": 0.01734969344761339,
+          "z": 0.5532379746437073
+        }
+      }
+    ]
+  }
 }
